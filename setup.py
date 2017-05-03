@@ -1,5 +1,5 @@
 from setuptools import setup
-
+# 测试地址
 versionfile = 'snooze/version.py'
 with open(versionfile, 'rb') as f:
     exec(compile(f.read(), versionfile, 'exec'))
